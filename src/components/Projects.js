@@ -35,13 +35,6 @@ class Projects extends React.Component {
         link: "https://github.com/ihatecfishes/portfolio",
         open: ""
       },
-      Hexhell: {
-        desc:
-          "A simple game made on Unity.",
-        techStack: "C#",
-        link: "https://github.com/ihatecfishes/hexhell",
-        open: ""
-      },
       "Face-Tracking Camera": {
         desc:
           "A camera that follows your face in both axes.",
