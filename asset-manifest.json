@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hao/static/css/main.e136cc0c.chunk.css",
-    "main.js": "/hao/static/js/main.26d667d6.chunk.js",
-    "main.js.map": "/hao/static/js/main.26d667d6.chunk.js.map",
+    "main.js": "/hao/static/js/main.ad551e98.chunk.js",
+    "main.js.map": "/hao/static/js/main.ad551e98.chunk.js.map",
     "runtime-main.js": "/hao/static/js/runtime-main.c44d2d76.js",
     "runtime-main.js.map": "/hao/static/js/runtime-main.c44d2d76.js.map",
     "static/css/2.fbf08e0d.chunk.css": "/hao/static/css/2.fbf08e0d.chunk.css",
     "static/js/2.5a73aaa0.chunk.js": "/hao/static/js/2.5a73aaa0.chunk.js",
     "static/js/2.5a73aaa0.chunk.js.map": "/hao/static/js/2.5a73aaa0.chunk.js.map",
     "index.html": "/hao/index.html",
-    "precache-manifest.678c77826d6cbed2b147185cafbaf8ad.js": "/hao/precache-manifest.678c77826d6cbed2b147185cafbaf8ad.js",
+    "precache-manifest.cf76c7c122ba3780b4f102b56cd24b8a.js": "/hao/precache-manifest.cf76c7c122ba3780b4f102b56cd24b8a.js",
     "service-worker.js": "/hao/service-worker.js",
     "static/css/2.fbf08e0d.chunk.css.map": "/hao/static/css/2.fbf08e0d.chunk.css.map",
     "static/css/main.e136cc0c.chunk.css.map": "/hao/static/css/main.e136cc0c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.fbf08e0d.chunk.css",
     "static/js/2.5a73aaa0.chunk.js",
     "static/css/main.e136cc0c.chunk.css",
-    "static/js/main.26d667d6.chunk.js"
+    "static/js/main.ad551e98.chunk.js"
   ]
 }
