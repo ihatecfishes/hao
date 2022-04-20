@@ -40,7 +40,7 @@ class Intro extends React.Component {
           <div className="intro-desc">
             I'm a highschool student at Nguyen Thi Minh Khai Highschool. I have profound fascination 
             in Artificial Intelligence, Computer Science, Computer Vision, 
-            and everything related.
+            and everything related. I'm aiming for VinUniversity's 100% scholarship in Computer Science.
           </div>
           <a
             href="mailto:haowangbright@gmail.com"
