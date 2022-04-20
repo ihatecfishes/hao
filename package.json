@@ -20,7 +20,7 @@
     "rsuite": "^4.8.2",
     "schema-utils": "^3.0.0",
     "three": "^0.126.1",
-    "yarn": "^1.22.17"
+    "yarn": "^1.22.18"
   },
   "scripts": {
     "start": "react-scripts start",
