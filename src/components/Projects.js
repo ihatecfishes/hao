@@ -23,8 +23,8 @@ class Projects extends React.Component {
     const projects = {
       "Anti-Covid Intelligent Machine": {
         desc:
-          "Codes on ESP/Raspberry Pi/Jetson Nano for the machine of the TechGenius Competition.",
-        techStack: "Python, C++, ESP, Raspberry Pi, Jetson Nano",
+          "A machine that detect facemasks, track faces, measure temperature, check attendance through personal QRCodes.",
+        techStack: "Python, C++, ESP, Raspberry Pi, Jetson Nano, Tensorflow, Keras",
         link: "https://github.com/ihatecfishes/Intelligent-Anti-Covid-Machine",
         open: ""
       },
@@ -35,10 +35,17 @@ class Projects extends React.Component {
         link: "https://github.com/ihatecfishes/portfolio",
         open: ""
       },
+      "Facemask Detection": {
+        desc:
+          "Detects whether you are wearing a mask or not. Using Deep Learning Sequential Model to train the detection process.",
+        techStack: "Python, Tensorflow, Keras, OpenCV",
+        link: "https://github.com/ihatecfishes/facemask-detection",
+        open: ""
+      },
       "Face-Tracking Camera": {
         desc:
-          "A camera that follows your face in both axes.",
-        techStack: "Python, Raspberry Pi",
+          "A camera that follows your face in both axes. Using the Viola Jones Algorithm to detect faces and coordinates management to track the face.",
+        techStack: "Python, Raspberry Pi, OpenCV, Viola Jones Algorithm",
         link: "https://github.com/ihatecfishes/Face-Tracking_Raspberry-pi",
         open: ""
       },
