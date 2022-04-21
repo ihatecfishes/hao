@@ -32,7 +32,7 @@ class Projects extends React.Component {
         desc:
           "What you are currently in, a static website that contains all my infomations, projects and ambitions.",
         techStack: "Javascript, HTML / CSS, Node.js, React.js",
-        link: "https://github.com/ihatecfishes/portfolio",
+        link: "https://github.com/ihatecfishes/hao",
         open: ""
       },
       "Facemask Detection": {
@@ -51,7 +51,7 @@ class Projects extends React.Component {
       },
       "My Project References and Pictures": {
         desc:
-          "Pictures I caught throughout my journey and the final results.",
+          "Pictures I caught throughout my stem journey and the final results.",
         techStack: "(Click the open icon to access)",
         link: "",
         open: "https://drive.google.com/drive/folders/1VR-rZBIPcZpfj-u3E7G-LdEwhIq7oooq?usp=sharing"
