@@ -30,7 +30,7 @@ class Projects extends React.Component {
       },
       "Portfolio": {
         desc:
-          "What you are currently in - Huge inspiration by Gazi Jarin.",
+          "What you are currently in, a static website that contains all my infomations, projects and ambitions.",
         techStack: "Javascript, HTML / CSS, Node.js, React.js",
         link: "https://github.com/ihatecfishes/portfolio",
         open: ""
@@ -48,6 +48,13 @@ class Projects extends React.Component {
         techStack: "Python, Raspberry Pi, OpenCV, Viola Jones Algorithm",
         link: "https://github.com/ihatecfishes/Face-Tracking_Raspberry-pi",
         open: ""
+      },
+      "My Project References and Pictures": {
+        desc:
+          "Pictures I caught throughout my journey and the final results.",
+        techStack: "(Click the open icon to access)",
+        link: "",
+        open: "https://drive.google.com/drive/folders/1VR-rZBIPcZpfj-u3E7G-LdEwhIq7oooq?usp=sharing"
       },
     };
 
