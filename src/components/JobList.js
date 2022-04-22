@@ -96,20 +96,20 @@ const JobList = () => {
       jobTitle: "An Active Student @",
       duration: "AUG 2019 - current",
       desc: [
-        "Parcitipated in many social/science activities and competitions.",
+        "Parcitipate in many social/science activities and competitions.",
         "Member of MEU - Miki English Union Club (social) and head of STEAMK - Minh Khai Steam Club (science & robotics).",
         "Member of English & Informatics selection team - Bronze medal in 30 April Olympic Contest (English). ",
-        "Consistent grades & fair GPA."
+        "Maintain consistent grades & fair GPA."
       ]
     },
     Activities: {
       jobTitle: "Knowledge Seeking @",
       duration: "Since i was born",
       desc: [
-        "Parcitipated in the Massive Open Online Course (MOOC) Web Programming at the American Center HCM city - June to July 2019", //add picture of cirtificates smartly and elegantly 
-        "Parcitipated in the Summer Tech Camp organized by the American Center HCM city - August 2020",
-        "Parcitipated in the Global MakeCode Arcade Game Jam at the American Center HCM city (U.S Consulate x Steam for VietNam) - December 2021.",
-        "Parcitipated in the English Language Teacher Professional Development Webinar: \"Applying technology in the English language classroom\" - August 2020.",
+        "Parcitipate in the Massive Open Online Course (MOOC) Web Programming at the American Center HCM city - June to July 2019", //add picture of cirtificates smartly and elegantly 
+        "Parcitipate in the Summer Tech Camp organized by the American Center HCM city - August 2020",
+        "Parcitipate in the Global MakeCode Arcade Game Jam at the American Center HCM city (U.S Consulate x Steam for VietNam) - December 2021.",
+        "Parcitipate in the English Language Teacher Professional Development Webinar: \"Applying technology in the English language classroom\" - August 2020.",
         "Part of many events & programs of different fields, especially science."
       ]
     },
@@ -117,7 +117,7 @@ const JobList = () => {
       jobTitle: "Head Student @",
       duration: "NOV 2021 - current",
       desc: [
-        "Parcitipated and assisted/hosted knowledge sharing/teaching events.", //for future Hao: find a way to add picture of STEAMK here (workplace)
+        "Parcitipate and assisted/hosted knowledge sharing/teaching events.", //for future Hao: find a way to add picture of STEAMK here (workplace)
         "Pioneer in new technologies and inform to others: Machine Learning, Raspberry Pi, Jetson Nano,...",
         "Cleaner/Furnisher of the workplace."
       ]

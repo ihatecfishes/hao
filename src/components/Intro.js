@@ -36,7 +36,7 @@ class Intro extends React.Component {
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">Nothing is impossible to they who will try.</div>
+          <div className="intro-subtitle">Humble in our aspirations, gracious in our success, resilient in our failure.</div>
           <div className="intro-desc">
             I'm a highschool student at Nguyen Thi Minh Khai Highschool. I have profound fascination 
             in Artificial Intelligence, Computer Science, Computer Vision, 
