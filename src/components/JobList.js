@@ -127,10 +127,13 @@ const JobList = () => {
       duration: "Since i was born",
       desc: [
         "IELTS 7.0 at Grade 9.",
-        "Runner-up prize in the RMIT Techgenius Competition - Engineering category.", 
+        "IELTS 7.5 at Grade 12.",
+        "Runner-up prize (silver medal) in the RMIT's Natioanl Techgenius Competition - Engineering category.", 
         "Honorable Award from the National Speaking English Contest 2020.",
         "First place in the Scientific Research Competition of the school.",
-        "Bronze medal in 30 April Olympic Contest (English)."
+        "Third place in the Scientific Research Competition of the city.",
+        "Bronze medal in 30 April Olympic Contest (English).", 
+        "Bronze medal in the city's excellent student English contest."
       ]
     }
   };
