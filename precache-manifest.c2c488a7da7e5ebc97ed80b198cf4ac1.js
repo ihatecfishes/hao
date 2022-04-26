@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd71e9d362f64f05bc01e244947604dd",
+    "revision": "6aceaa4fb08f06184b5350ba9a6718b2",
     "url": "/hao/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hao/static/css/2.fbf08e0d.chunk.css"
   },
   {
-    "revision": "1b99d626ef3b6695c656",
+    "revision": "8149e620bc6bde7f4566",
     "url": "/hao/static/css/main.e136cc0c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hao/static/js/2.0d716573.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b99d626ef3b6695c656",
-    "url": "/hao/static/js/main.f93b99e0.chunk.js"
+    "revision": "8149e620bc6bde7f4566",
+    "url": "/hao/static/js/main.d2fabae9.chunk.js"
   },
   {
     "revision": "42424ecadd6c7f62fa94",
