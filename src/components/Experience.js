@@ -1,6 +1,7 @@
 import React from "react";
 import JobList from "./JobList";
 import AaccList from "./AaccList";
+import Pics from "./Pics";
 import "../styles/Experience.css";
 import FadeInSection from "./FadeInSection";
 
@@ -34,7 +35,9 @@ class Experience extends React.Component {
           </div>
           <JobList></JobList>
         </FadeInSection>
+        
       </div>
+
     );
   }
 }

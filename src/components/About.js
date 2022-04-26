@@ -22,7 +22,7 @@ class About extends React.Component {
         I'm currently a <b>Highschool Student</b> at{" "}
         <b> Nguyen Thi Minh Khai Highschool </b>, with a focus in Computer Science and
         Artificial Intelligence. Recently, I parcitipated in the{" "}
-        <a href="https://www.event.rmit.edu.vn/techgenius2021-en">TechGenius Competition</a> and won{" "}
+        <a href="https://www.event.rmit.edu.vn/techgenius2021-en"> National TechGenius Competition</a> and won{" "}
         <b>Second Prize</b> in Engineering category.
       </p>
     );
@@ -49,10 +49,12 @@ class About extends React.Component {
     const tech_stack = [
       "Python",
       "HTML & CSS",
-      "Node.js",
+      "C/C++",
       "React.js",
       "Tensorflow",
-      "Keras"
+      "Keras", 
+      "Jetson Nano", 
+      "Raspberry Pi"
     ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);
